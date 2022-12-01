@@ -77,3 +77,35 @@ Congratulations! You are now at the point where you can run wabbajack. First, yo
 1. Under "Modlist Installation Location", you\'ll want to choose **SPECIFICALLY** "C:\Wabbajack\Aetherium Forge". If the folder does not exist, create it. Don\'t rename it, make sure you don\'t make a typo. The location is important so some of the tools can run.
 1. Under "Resource Download Location", choose any location on your PC. You can delete these files after you successfully run Wabbajack.
 1. Congratulations! You're now ready to start using the Aetherium Forge.
+
+# Understanding the Aetherium Forge
+--------
+## The profiles
+The Aetherium Forge comes with 4 default profiles - **1.6.640** (Default), **1.5.97**, **1.6.353**, and **No Mods**. Each of these profiles is meant to be used with a specific **"Root Game"**. Profiles are selected from the top of Mod Organizer 2, from here:
+[![Aetherium Forge - Profiles](https://cdn.discordapp.com/attachments/625292279468523522/1047961993295958076/Profiles.png "Aetherium Forge - Profiles")](https://cdn.discordapp.com/attachments/625292279468523522/1047961993295958076/Profiles.png "Aetherium Forge - Profiles")
+
+Each profile should be used with its corresponding root game. The Aetherium Forge comes with 3 Root Games - 1.6.640, 1.6.353, and 1.5.97. Profiles No Mods and 1.6.640 should be used together with Root Game 1.6.640, and then each profile with its corresponding root game. You can switch Root Games as such:
+[![Changing Profiles](https://cdn.discordapp.com/attachments/625292279468523522/1047964709929893948/Screenshot_1.png "Changing Profiles")](https://cdn.discordapp.com/attachments/625292279468523522/1047964709929893948/Screenshot_1.png "Changing Profiles")
+
+You then double-click into the folder you want to switch to, and then you double-click on SkyrimSE.exe
+
+--------
+## Executables
+The Aetherium Forge comes with a lot of executables for you to experiment with. In order, these are:
+
+1. SKSE
+1. Creation Kit
+1. Notepad++
+1. Nifskope
+1. Paint.Net
+1. SVFX Editor
+1. Bodyslide
+1. Outfit Studio
+1. xEdit
+1. Nemesis
+
+Note that most of them are profile-specific, meaning that if you try and run SKSE64 - 1.6.640, you will not get any result if you run it in the 1.6.353 profile. If you\'ve played with modded Skyrim in the past, there's a good chance that you're familiar with many of them. Notepad++ has additional functionality in this list - allowing you to write and compile papyrus scripts, as well as anonymizing them. This is all thanks to blu3mania, whose repository I've linked [here](https://github.com/blu3mania/npp-papyrus "here").
+
+Additional tools may be found in C:\\Wabbajack\\Aetherium Forge\\Tools
+
+--------------
