@@ -53,7 +53,7 @@
   1. Locate the "Data" folder and go inside.
   1. In there, there is a "Scripts" compressed file. Right click it, and under the 7-zip category, there is an option to "Extract Here". Click it. If you do not have the "7-Zip" menu, that means that 7-Zip was not installed correctly.
 1. **Running the Creation Kit once.**
-  1. Open your "Base Directory". If you do not know what that is, refer to step "v" under "Extracting the Scripts pack".
+  1. Open your "Base Directory". If you do not know what that is, refer to step **17** under "Extracting the Scripts pack".
   1. Double-click on "CreationKit".
   At this point, you may notice that the creation kit\'s "render window" is **RAPIDLY FLASHING.** If you are susceptible to epileptic attacks, **DO NOT PROCEED**. This is an issue with the latest NVIDIA drivers, not the creation kit itself.
   1. If you are given a prompt to extract the "Scripts.zip" pack, ignore it - you've already completed this step.
